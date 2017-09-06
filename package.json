@@ -1,0 +1,25 @@
+{
+  "name": "dev273x",
+  "version": "1.0.0",
+  "description": "EdX DEV273x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bozhink/DEV273x.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bozhink/DEV273x/issues"
+  },
+  "homepage": "https://github.com/bozhink/DEV273x#readme",
+  "devDependencies": {
+    "typescript": "^2.5.2"
+  }
+}
