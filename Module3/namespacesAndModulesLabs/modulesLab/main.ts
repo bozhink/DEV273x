@@ -1,4 +1,4 @@
-import ArrayUtilities from './arrayUtils';
+import ArrayUtilities from './arrayUtils.js';
 let array1 = [
     1,
     2,
